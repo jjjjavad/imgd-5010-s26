@@ -4,3 +4,4 @@
 
 - [Charlie Roberts](https://github.com/charlieroberts)
 - [REPL Lab](https://repl-wpi.github.io)
+- [Adryen Jean](https://github.com/UrsaMajor24/CrtvCd_AsgnNo01_Binary) 
